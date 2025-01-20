@@ -39,7 +39,7 @@ public abstract class AbstractCharacter extends PhysicalObject implements Charac
 
     @Override
     public String toString() {
-        return "objects.AbstractVehicle{name:'" + name + "', height:'" + height + "', strength:'" + strength + "', " +
+        return "objects.AbstractCharacter{name:'" + name + "', height:'" + height + "', strength:'" + strength + "', " +
                 "sex:'" + sex + "'}";
     }
 }
